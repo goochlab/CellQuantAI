@@ -1,7 +1,7 @@
 # CellQuantAI
 Cellular quantification of histological tissue using tensorflow machine learning
 
-This library contains a suite of python scripts which can be used with Tensorflow Object Detection software to quantify cells in histological tissue.  
+This library contains a suite of python scripts which can be used with Tensorflow Object Detection software to quantify cells in histological tissue.  All software is copyrighted as follows:
 
 Copyright Notice:  ©2023 Washington University
 Washington University hereby grants to you a non-transferable, non-exclusive, royalty-free, non-commercial, non-clinical, not-for-use with human subjects, research license to use and copy the computer code that may be downloaded within this site (the “Software”).  You agree to include this license and the above copyright notice in all copies of the Software.  The Software may not be distributed, shared, or transferred to any third party.  This license does not grant any rights or licenses to any other patents, copyrights, or other forms of intellectual property owned or controlled by Washington University.
